@@ -1,7 +1,7 @@
 {
-  "name": "denim-fit-guru",
+  "name": "yihwans-gatsby-starter",
   "private": true,
-  "description": "The frontend catalog for Denim Fit Guru",
+  "description": "Yihwan's Gatsby Starter",
   "version": "0.1.0",
   "author": "Yihwan Kim <hi@yihwan.kim>",
   "dependencies": {
