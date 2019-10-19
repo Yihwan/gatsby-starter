@@ -7,7 +7,6 @@ module.exports = {
   plugins: [
     'gatsby-plugin-emotion',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-layout',
     'gatsby-plugin-root-import',
     'gatsby-plugin-remove-trailing-slashes',
     {
